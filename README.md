@@ -1,0 +1,1 @@
+# binankiosk_database
